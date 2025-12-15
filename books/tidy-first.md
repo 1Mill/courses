@@ -5,7 +5,7 @@
 ## Details
 
 * Pace: ~40 pages per week (~1 hour per week)
-* Total pages: 124 
+* Total pages: 124
 * Expected weeks: 124 / 40 = ~3
 
 ## Chapters
