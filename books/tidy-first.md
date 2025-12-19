@@ -12,9 +12,9 @@
 
 | Week | Chatpers                                     | Start page | Page count | Week total |
 |------|----------------------------------------------|------------|------------|------------|
-| 1    | Foreword                                     | xi         | 2          |            |
-| 1    | Preface                                      | xiii       | 7          |            |
-| 1    | Introduction                                 | xxi        | 2          |            |
+|      | Foreword                                     | xi         | 2          |            |
+|      | Preface                                      | xiii       | 7          |            |
+|      | Introduction                                 | xxi        | 2          |            |
 | 1    | Part 1                                       | 3          | 34         | 45         |
 | 2    | Part 2                                       | 35         | 16         | 16         |
 | 3    | Part 3                                       | 57         | 38         | 38         |
