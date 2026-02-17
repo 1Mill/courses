@@ -10,12 +10,10 @@
 
 | Session   | Chapter                       | Start page   | Page count   | Session total   |
 | --------- | ----------------------------- | ------------ | ------------ | --------------- |
-| 1         | Acknowledgments & Foreword    | xvii         | 15           |                 |
-|           | Introduction                  | 1            | 10           |                 |
-|           | Cast of Characters            | xxxi         | 8            |                 |
+| 1         | Acknowledgments & …           | xvii         | 15           |                 |
 |           | Pain                          | 3            | 8            |                 |
 |           | Business as Usual             | 11           | 6            |                 |
-|           | Change of Course              | 17           | 5            | 52              |
+|           | Change of Course              | 17           | 5            | 34              |
 | --------- | ---------                     | ------------ | ------------ | --------------- |
 | 2         | Frustration                   | 22           | 6            |                 |
 |           | Call to Action                | 28           | 7            |                 |
