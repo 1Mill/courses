@@ -27,4 +27,5 @@
 |         | Chapter 9 — Applying the Redwork-Bluework Principles           | 247        | 32         | **66**        |
 |---------|----------------------------------------------------------------|------------|------------|---------------|
 | 6       | Chapter 10 — The Red-Blue Operating System                     | 279        | 22         |               |
-|         | Chapter 11 — Saving El Faro                                    | 301        | 12         | **34**        |
+|         | Chapter 11 — Saving El Faro                                    | 301        | 12         |               |
+|         | Acknowledgements                                               | 313        | 2          | **36**        |
